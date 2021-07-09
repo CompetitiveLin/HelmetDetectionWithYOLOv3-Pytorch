@@ -1,1 +1,1 @@
-It's just a simple use of YOLOv3-Pytorch
+Based on yolov3 and channel and layer pruning
